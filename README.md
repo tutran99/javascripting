@@ -1,0 +1,1 @@
+start of practicing javascript
